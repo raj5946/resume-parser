@@ -1,0 +1,10 @@
+streamlit
+spacy
+pandas
+matplotlib
+wordcloud
+scikit-learn
+networkx
+flask
+werkzeug
+pdfplumber
